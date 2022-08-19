@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sstoicageorgiana
 - 👀 I’m interested in Fulll-Stack Developing!
 - 🌱 I’m currently learning MERN( Mongo DB, Express, React and Node.js)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : georgianastefaniastoica@gmail.com
 
 <!---
