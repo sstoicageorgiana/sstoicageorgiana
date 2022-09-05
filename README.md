@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sstoicageorgiana
 - 👀 I’m interested in Fulll-Stack Developing!
+- 🌱 I’m a Microsoft Dynamics Nav Developer! 
 - 🌱 I’m currently learning MERN( Mongo DB, Express, React and Node.js)
 - 📫 How to reach me : georgianastefaniastoica@gmail.com
 
